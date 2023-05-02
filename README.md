@@ -29,8 +29,8 @@ Schematic/		|原理图 schematic.pdf
 其他想到的后续再补充...
 
 
-![Image of CrazyCube Flasher GUI](images/mainboard.jpg)
-![Image of CrazyCube Flasher GUI](images/extendboard.jpg)
+![Image of CrazyCube Flasher GUI](Images/mainboard.jpg)
+![Image of CrazyCube Flasher GUI](Images/extendboard.jpg)
 
 
 
