@@ -9,6 +9,7 @@ Gerber/			|PCB 生产文件, 包括主板和屏幕板
 BOM/				|清单：mainboard.html 主板元件BOM， extendboard.html 屏幕板
 STL/				|外壳 3D 打印文件
 Schematic/		|原理图 schematic.pdf
+bin/				|超级立方豆视原版固件
 
 
 ## 制作说明
