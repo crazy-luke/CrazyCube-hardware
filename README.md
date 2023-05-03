@@ -1,5 +1,5 @@
 # 超级立方豆硬件制作
-项目入口请见 [crazycube-portal](https://github.com/crazy-luke/crazycube-portal)
+项目完整入口请见 [Crazycube-Portal](https://github.com/crazy-luke/crazycube-portal)
 
 
 ## 目录说明
@@ -19,11 +19,9 @@ Schematic/		|原理图 schematic.pdf
 
 3. 固件烧录程序可以使用 [CrazyCube-Flasher](https://github.com/crazy-luke/CrazyCube-Flasher/tree/main/app)
 
-4. 原版固件晚些时候再放出。
 
-5. 支持  
-项目没有做推广 知道人可能不多，所以暂时也没有建交流群，如后续有需要再考虑支持。  
-超级立方豆集成度较高，新手排错可能有一定难度，有问题也可以私信 B站 疯狂豆Luke。  
+4. 支持 
+超级立方豆集成度较高，新手排错可能有一定难度，有问题可以私信 B站 疯狂豆Luke。  
 
 其他想到的后续再补充...
 
