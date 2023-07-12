@@ -23,13 +23,39 @@ Schematic/		|原理图 schematic.pdf
 
 4. 支持  
 超级立方豆集成度较高，新手排错可能有一定难度，有问题可以给B站 [疯狂豆Luke](https://www.bilibili.com/video/BV1Xs4y1A7rm) 留言。  
-共性问题会整体到这个文档： [FAQ](FAQ.md)   
-其他想到的后续再补充...
 
 
 ![Image of CrazyCube Flasher GUI](Images/mainboard.jpg)
 ![Image of CrazyCube Flasher GUI](Images/extendboard.jpg)
 
+
+
+
+
+
+## 以下是一些网友问题整理
+
+### 手势识别模块 
+
+* GY-PAJ7620U2。2.54mm 90度单排弯针插接。  
+* 模块与主板连接方式，可以直接焊接，也可以插接母座（母座参考高度5～6mm）
+
+![Image of CrazyCube Flasher GUI](Images/p1.jpg)
+![Image of CrazyCube Flasher GUI](Images/p3.jpg)
+
+
+### 按键
+* 原版使用 8.3CM 轻触开关 （TS-B010 , 8.3H）
+* 左右按钮键帽：PVC硅胶，6.4x3.4 （非必需）
+
+![Image of CrazyCube Flasher GUI](Images/p2.jpg)
+
+
+### 屏幕版
+* 连接器是 FFC_0.5_24,  24P 抽屉式 上接 
+* 屏幕 1.3寸 240*240 24pin 插接式。  （注意是插接式）
+
+![Image of CrazyCube Flasher GUI](Images/p4.jpg)
 
 
 
